@@ -33,7 +33,7 @@ pip install requests colorama
 ## Installation
 1. Clone or download this repository to your local machine:
    ```bash
-   git clone https://github.com/<your-username>/mitre-attack-apt-mapper.git
+   git clone https://github.com/mohabye/mitre-attack-apt-mapper.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -178,9 +178,3 @@ Contributions are welcome! Please submit issues or pull requests to the GitHub r
 - Ensure code follows PEP 8 style guidelines.
 - Add tests for new features or bug fixes.
 - Update this README if new features or usage instructions are added.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contact
-For questions or support, please open an issue on the GitHub repository or contact the maintainer at `<your-email>`.
