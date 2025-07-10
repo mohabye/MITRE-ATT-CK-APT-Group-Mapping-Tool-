@@ -38,12 +38,7 @@ pip install requests colorama
 2. Navigate to the project directory:
    ```bash
    cd mitre-attack-apt-mapper
-   ```
-3. Install the required Python packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-   (Create a `requirements.txt` file with `requests` and `colorama` if not already present.)
+
 
 ## Usage
 The tool can be used in several ways, depending on your needs. Below are the available commands and examples.
